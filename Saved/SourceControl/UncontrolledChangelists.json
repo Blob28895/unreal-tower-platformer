@@ -127,7 +127,16 @@
 				"T:/Unreal Projects/TowerClimber/Content/PaperAssets/Ledges/ledge_thick_long_Sprite.uasset",
 				"T:/Unreal Projects/TowerClimber/Content/PaperAssets/Ledges/ledge_thick_short_Sprite.uasset",
 				"T:/Unreal Projects/TowerClimber/Content/PaperAssets/Ledges/ledge_thin_long_Sprite.uasset",
-				"T:/Unreal Projects/TowerClimber/Content/PaperAssets/Ledges/ledge_thin_short_Sprite.uasset"
+				"T:/Unreal Projects/TowerClimber/Content/PaperAssets/Ledges/ledge_thin_short_Sprite.uasset",
+				"T:/Unreal Projects/TowerClimber/Content/Blueprints/BP_Platformer_Char.uasset",
+				"T:/Unreal Projects/TowerClimber/Content/Input/Action/IA_Move.uasset",
+				"T:/Unreal Projects/TowerClimber/Content/Input/IMC_Platformer.uasset",
+				"T:/Unreal Projects/TowerClimber/Content/Blueprints/BP_King.uasset",
+				"T:/Unreal Projects/TowerClimber/Content/Blueprints/Characters/BP_King.uasset",
+				"T:/Unreal Projects/TowerClimber/Content/Blueprints/Characters/BP_Pig.uasset",
+				"T:/Unreal Projects/TowerClimber/Content/Blueprints/Characters/BP_Platformer_Char.uasset",
+				"T:/Unreal Projects/TowerClimber/Content/Blueprints/GM_Platformer.uasset",
+				"T:/Unreal Projects/TowerClimber/Content/Input/Action/IA_Jump.uasset"
 			]
 		}
 	]
